@@ -1,0 +1,15 @@
+chr1	flux	junction	320938	321032	.	+	.	gene_id "ENSG00000237094.4"; locus_id "chr1:317720-453948W"; reads 0.000000
+chr1	flux	junction	324345	324439	.	+	.	gene_id "ENSG00000237094.4"; locus_id "chr1:317720-453948W"; reads 0.000000
+chr1	flux	junction	17742	17915	.	-	.	gene_id "ENSG00000227232.3"; locus_id "chr1:14363-29806C"; reads 0.000000
+chr1	flux	junction	18061	18268	.	-	.	gene_id "ENSG00000227232.3"; locus_id "chr1:14363-29806C"; reads 0.000000
+chr1	flux	junction	146509	146642	.	-	.	gene_id "ENSG00000241860.1"; locus_id "chr1:141474-149707C"; reads 0.000000
+chr1	flux	junction	164791	165884	.	-	.	gene_id "ENSG00000239368.1"; locus_id "chr1:164405-173864C"; reads 0.000000
+chr1	flux	junction	165942	168100	.	-	.	gene_id "ENSG00000239368.1"; locus_id "chr1:164405-173864C"; reads 0.000000
+chr1	flux	junction	169264	172557	.	-	.	gene_id "ENSG00000239368.1"; locus_id "chr1:164405-173864C"; reads 0.000000
+chr1	flux	junction	172688	173753	.	-	.	gene_id "ENSG00000239368.1"; locus_id "chr1:164405-173864C"; reads 0.000000
+chr1	flux	junction	700627	701709	.	-	.	gene_id "ENSG00000228327.2"; locus_id "chr1:694412-714006C"; reads 0.000000
+chr1	flux	junction	701767	703928	.	-	.	gene_id "ENSG00000228327.2"; locus_id "chr1:694412-714006C"; reads 0.000000
+chr1	flux	junction	705092	708356	.	-	.	gene_id "ENSG00000228327.2"; locus_id "chr1:694412-714006C"; reads 0.000000
+chr1	flux	junction	708487	709551	.	-	.	gene_id "ENSG00000228327.2"; locus_id "chr1:694412-714006C"; reads 0.000000
+chr1	flux	junction	694503	700103	.	-	.	gene_id "ENSG00000240618.1"; locus_id "chr1:694412-714006C"; reads 0.000000
+chr1	flux	junction	741271	743954	.	-	.	gene_id "ENSG00000230092.3"; locus_id "chr1:736259-753092C"; reads 0.000000

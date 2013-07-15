@@ -1,0 +1,22 @@
+[bam_header_read] EOF marker is absent. The input is probably truncated.
+Welcome to GEM-2-sam build 1.423 (beta) - (2013/04/01 01:02:13 GMT)
+ (c) 2008-2013 Paolo Ribeca <paolo.ribeca@gmail.com>
+ (c) 2010-2013 Santiago Marco Sola <santiagomsola@gmail.com>
+ (c) 2010-2013 Leonor Frias Moya <leonor.frias@gmail.com>
+For the terms of use, run the program with the option --show-license.
+************************************************************************
+* WARNING: this is a beta version, provided for testing purposes only; *
+*          check for updates at <http://gemlibrary.sourceforge.net>.   *
+************************************************************************
+Thu Jul 11 17:50:20 2013 -- Loading index (likely to take long)... done.
+Thu Jul 11 17:50:20 2013 -- Inverting locations... done.
+Thu Jul 11 17:50:20 2013 -- 0 lines read
+[samopen] SAM header is present: 1 sequences.
+Thu Jul 11 17:50:21 2013 -- 50001 lines read
+Thu Jul 11 17:50:23 2013 -- 25415 lines written
+Thu Jul 11 17:50:23 2013 -- 100001 lines read
+Thu Jul 11 17:50:24 2013 -- 50871 lines written
+Thu Jul 11 17:50:24 2013 -- 150002 lines read
+Thu Jul 11 17:50:25 2013 -- 76299 lines written
+Thu Jul 11 17:50:26 2013 -- 100000 lines written
+Thu Jul 11 17:50:26 2013 -- 196609 lines in, 100000 lines out

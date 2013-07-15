@@ -1,0 +1,52 @@
+[PRE-CHECK] I am checking availability of the required lpsolve JNI libs.
+[PRE-CHECK] 	* successfully loaded lpsolve JNI (version 5.5,release 0,build 14)
+
+	Scanning annotation file 	Checking GTF *[WARN] Unsorted in line 101 - chr/strand chr1 + already read.
+[INFO] Sorting /users/rg/epalumbo/grape_project/annotations/annotation.gtf
+	sorting GTF file  OK (00:00:00)
+	scanning  OK (00:00:00)
+[WARN] Skipped 415 lines.
+[INFO] 	59 loci, 189 transcripts, 695 exons.
+ OK (00:00:00)
+	Scanning mapping file  OK (00:00:00)
+[WARN] Skipped 199290 lines.
+[INFO] 	710 mapped reads, 949 mappings: R-factor 1.3366197
+[INFO] 	890 entire, 59 split mappings (6.2170706%)
+[INFO] 	Read descriptor seems OK
+ OK (00:00:00)
+[INFO] Annotation and mapping input checked
+[HEHO] We are set, so let's go!
+[ANNOTATION_FILE] /users/rg/epalumbo/grape_project/annotations/annotation.gtf
+[MAPPING_FILE] /nfs/users/rg/epalumbo/grape_project/data/test_filtered_4.bam
+[READ_DESCRIPTOR] {ID}/{MATE}[1,2]
+[SORT_IN_RAM] true
+[TMP_DIR] /scratch/310675.1.rg-el6
+[STDOUT_FILE] /nfs/users/rg/epalumbo/grape_project/data/test.gtf
+[PROFILE] Loading profile
+
+[PROFILE] Scanning the input and getting the attributes.
+	profiling  OK (00:00:00)
+	first round finished .. took 0 sec.
+
+	29 single transcript loci
+	949 mappings in file
+	117 mappings fall in single transcript loci
+	68 mappings map to annotation
+	75,76 min/max read length
+	
+
+[COUNT] Counting reads to the following elements: splice junctions, all-intronic regions.
+
+[SOLVE] Deconvolving reads of overlapping transcripts.
+	decomposing   OK (00:00:00)
+
+	reconstruction finished .. took 0 sec.
+
+	949 mappings read from file
+	182 mappings map to annotation
+
+	189 transcripts, 28 detected
+
+[INFO] 
+[TICTAC] I finished flux in 0 sec.
+Cheers!

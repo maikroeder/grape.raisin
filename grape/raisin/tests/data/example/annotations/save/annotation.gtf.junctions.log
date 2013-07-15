@@ -1,0 +1,30 @@
+Welcome to GEM-indexer_fasta2meta+cont build jenkins-label=linux-gt,target=linux-i3-7.760 (beta) - (2013-04-16 09:07:30 GMT)
+ (c) 2008-2013 Paolo Ribeca <paolo.ribeca@gmail.com>
+ (c) 2010-2013 Santiago Marco Sola <santiagomsola@gmail.com>
+ (c) 2010-2013 Leonor Frias Moya <leonor.frias@gmail.com>
+For the terms of use, run the program with the option --show-license.
+************************************************************************
+* WARNING: this is a beta version, provided for testing purposes only; *
+*          check for updates at <http://gemlibrary.sourceforge.net>.   *
+************************************************************************
+-------gem-indexer_bwt-dna
+Welcome to GEM-indexer_bwt-dna build jenkins-label=linux-gt,target=linux-i3-7.753 (beta) - (2013-04-16 09:07:30 GMT)
+ (c) 2008-2013 Paolo Ribeca <paolo.ribeca@gmail.com>
+ (c) 2010-2013 Santiago Marco Sola <santiagomsola@gmail.com>
+ (c) 2010-2013 Leonor Frias Moya <leonor.frias@gmail.com>
+For the terms of use, run the program with the option --show-license.
+************************************************************************
+* WARNING: this is a beta version, provided for testing purposes only; *
+*          check for updates at <http://gemlibrary.sourceforge.net>.   *
+************************************************************************
+-------gem-indexer_generate
+Welcome to GEM-indexer_generate build jenkins-label=linux-gt,target=linux-i3-7.754 (beta) - (2013-04-16 09:07:30 GMT)
+ (c) 2008-2013 Paolo Ribeca <paolo.ribeca@gmail.com>
+ (c) 2010-2013 Santiago Marco Sola <santiagomsola@gmail.com>
+ (c) 2010-2013 Leonor Frias Moya <leonor.frias@gmail.com>
+For the terms of use, run the program with the option --show-license.
+************************************************************************
+* WARNING: this is a beta version, provided for testing purposes only; *
+*          check for updates at <http://gemlibrary.sourceforge.net>.   *
+************************************************************************
+-------rm -f

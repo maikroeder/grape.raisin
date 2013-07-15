@@ -1,0 +1,12 @@
+data/test.map.gz	labExpId=test; quality=33; sex=F; type=map; md5=9c885f76734dfa914173c2ad41bc3ef6;
+data/test_filtered_4.map.gz	labExpId=test; quality=33; sex=F; type=map; md5=c38553ea285c2ac03e58d84d43fc4882;
+data/test_filtered_4.bam	labExpId=test; quality=33; sex=F; view=Alignments; type=bam; md5=feb4c40bbaaefd8b27a96bf5e749858e;
+data/test.gtf	labExpId=test; quality=33; sex=F; type=gtf; md5=82e039b9f0a0e70ba83fd743df370b85;
+data/test_intron.gtf	labExpId=test; quality=33; sex=F; view=Intron; type=gtf; md5=eb07a2142899415e04614295fe933e45;
+data/test_junction.gtf	labExpId=test; quality=33; sex=F; view=Junction; type=gtf; md5=bf4a8febc6938fa6d8ff22104ae94a5e;
+data/test_transcript.gtf	labExpId=test; quality=33; sex=F; view=Transcript; type=gtf; md5=1b6d414360bba46da70e3d0c70b08f29;
+data/test_1.fastq.gz	labExpId=test; quality=33; sex=F; view=FqRd1; type=fastq; md5=db1ca59afee6584b50f8653307a4ecbc;
+data/test_2.fastq.gz	labExpId=test; quality=33; sex=F; view=FqRd2; type=fastq; md5=ea4b7dc1af21d7d7d64c3b7020d62d40;
+data/test_filtered_4.bam.bai	labExpId=test; quality=33; sex=F; view=Alignments; type=bai; md5=b1fbfaebf005de3396bc458b65501e3e;
+data/test_distinct_exon_with_rpkm.gff	labExpId=test; quality=33; sex=F; view=Exon; type=gff; md5=65b620dd21c2af9cb5a960002697d176;
+data/test_gene_with_rpkm.gff	labExpId=test; quality=33; sex=F; view=Gene; type=gff; md5=530a2de52f1d0b18cc7d032506108b65;

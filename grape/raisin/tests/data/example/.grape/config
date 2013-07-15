@@ -1,0 +1,6 @@
+{
+    "genome": "/users/rg/epalumbo/grape_project/genomes/genome_1Mbp.fa", 
+    "quality": "33", 
+    "annotation": "/users/rg/epalumbo/grape_project/annotations/annotation.gtf", 
+    "name": "Test"
+}

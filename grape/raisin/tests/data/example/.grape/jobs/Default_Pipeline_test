@@ -1,0 +1,27 @@
+{
+  "flux": {
+    "state": "Done", 
+    "id": "310675", 
+    "stderr": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-flux.e310675", 
+    "stdout": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-flux.o310675"
+  }, 
+  "gem_filter": {
+    "state": "Done", 
+    "id": "310673", 
+    "stderr": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem_filter.e310673", 
+    "stdout": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem_filter.o310673"
+  }, 
+  "name": "Default Pipeline test", 
+  "gem": {
+    "state": "Done", 
+    "id": "310672", 
+    "stderr": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem.e310672", 
+    "stdout": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem.o310672"
+  }, 
+  "gem_bam": {
+    "state": "Done", 
+    "id": "310674", 
+    "stderr": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem_bam.e310674", 
+    "stdout": "/nfs/users/rg/epalumbo/grape_project/.grape/logs/GRP-gem_bam.o310674"
+  }
+}
